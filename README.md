@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roadmahn
 - 👀 I’m interested in Data Analytics and Database Administration/Management
 - 🌱 I’m currently learning SQL, Tableau and Oracle 11g and 12c Database Administration
-- 💞️ I’m looking to collaborate on Database Management
+- 💞️ I’m looking to collaborate on Data Analytics and Database Management
 - 📫 You can reach me vial email= Olayinkaoluyede@gmail.com OR Mobile no= +31684710516
 
 <!---
